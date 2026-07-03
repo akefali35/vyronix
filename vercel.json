@@ -2,7 +2,7 @@
     "rewrites": [
         {
             "source": "/(.*)",
-            "destination": "/html/$1"
+            "destination": "frontEnd/html/$1"
         }
     ]
 }
